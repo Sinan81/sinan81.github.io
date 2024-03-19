@@ -7,12 +7,12 @@ miscellaneous stuff
 | H100              | 51.2                      |
 | RTX A6000         | 38.7                      |
 | GeForce RTX 3090  | 35.6                      |
-| RTX A5000         | 27.8                      |
 | GeForce RTX 3080  | 29.8                      |
+| RTX A5000         | 27.8                      |
+| GeForce RTX 3070  | 20.4                      |
 | A40               | 19.6                      |
 | A100 (Ampere)     | 19.5                      |
 | RTX A4000         | 19.2                      |
-| GeForce RTX 3070  | 20.4                      |
 | Quadro RTX 6000   | 16.3                      |
 | Quadro RTX 8000   | 16.3                      |
 | GeForce RTX 2080 Ti | 13.4                    |
