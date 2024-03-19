@@ -27,4 +27,4 @@ refs: techpowerup
 
 Also see performances for actual scientific workloads here:
 
-https://developer.nvidia.com/hpc-application-performance
+[https://developer.nvidia.com/hpc-application-performance](https://developer.nvidia.com/hpc-application-performance)
