@@ -4,6 +4,7 @@ miscellaneous stuff
 
 | GPU Model         | FP32 Theoretical Performance (TFLOPS) |
 |-------------------|---------------------------|
+| [RTX A6000 (Ada)](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/rtx-6000/proviz-print-rtx6000-datasheet-web-2504660.pdf)   | 91.1                      |
 | H100              | 51.2                      |
 | [RTX A6000](https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/proviz-print-nvidia-rtx-a6000-datasheet-us-nvidia-1454980-r9-web%20(1).pdf)         | 38.7                      |
 | GeForce RTX 3090  | 35.6                      |
